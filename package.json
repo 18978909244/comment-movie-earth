@@ -1,0 +1,25 @@
+{
+  "name": "comment-movie-earth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18978909244/comment-movie-earth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18978909244/comment-movie-earth/issues"
+  },
+  "homepage": "https://github.com/18978909244/comment-movie-earth#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "nodejieba": "^2.3.0"
+  }
+}
